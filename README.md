@@ -1,5 +1,8 @@
 A web-based AQI management system with a user registration form, styled using Tailwind CSS. It uses JavaScript for client-side validation, PHP for form data processing, and a clean responsive layout for displaying AQI information.
 
+## This project was developed as a collaborative effort by a group of two members. Each member contributed to different aspects of the system, including frontend design, backend development, API integration, and overall functionality. Teamwork and coordination played a key role in successfully building the AQI Monitoring System.
+
+
 ### 📦 `index.html` (AQI Registration Page)
 
 * A **responsive web page** using **Tailwind CSS** for styling.
